@@ -1,0 +1,1 @@
+Project created to visualize all the projects I have ever done in my professional career.
